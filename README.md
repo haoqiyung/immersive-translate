@@ -27,19 +27,6 @@
 - [在线文档](https://immersive-translate.owenyoung.com/)
 - [GitHub](https://github.com/immersive-translate/immersive-translate/)
 
-## 保持联系
-
-- [通过邮件订阅沉浸式翻译](https://immersivetranslate.substack.com/) 及时获得最新更新和 (福利)。
-- [加入 Telegram 群组](https://t.me/+rq848Z09nehlOTgx) 参与功能的讨论。
-- [加入 Telegram 频道](https://t.me/immersivetranslate) 接收最新消息
-- [问题反馈](https://github.com/immersive-translate/immersive-translate/issues/)
-- [请开发者喝杯咖啡 ☕️](https://immersive-translate.owenyoung.com/donate.html)
-
-## 使用案例
-
-- [点击查看视频演示](https://www.youtube.com/watch?v=sQevumpUprc)
-- [点这里](https://immersive-translate.owenyoung.com/usecase.html) 查看使用截图
-- [点此查看](https://immersive-translate.owenyoung.com/review) 用户的评价以及媒体报道
 
 ## 安装
 
